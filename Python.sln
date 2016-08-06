@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1. Intro", "Intro\1. Intro.pyproj", "{7BFC1E0F-B60D-42B4-AC45-8150EC9AFAA9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2. Print", "Print\2. Print.pyproj", "{E3F7AA1F-4B4E-42EC-802D-194BE0BA64DA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3. function", "function\3. function.pyproj", "{FDCA2879-3C67-471F-9EB4-6662A4E78886}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "4. Logic", "Logic\4. Logic.pyproj", "{CEBCF084-9EE0-473B-9939-F8D9074E13DC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "5. if", "if\5. if.pyproj", "{27E61022-B8CF-4DDB-924D-3EA019674CD1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "6. append vs extend", "append ft extend\6. append vs extend.pyproj", "{B110B2AB-8AC9-4B05-B46E-25BBA2731A49}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "7. loop ft list", "7. loop ft list\7. loop ft list.pyproj", "{D93ACA3A-A841-4252-B812-9298BCCB9A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BFC1E0F-B60D-42B4-AC45-8150EC9AFAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFC1E0F-B60D-42B4-AC45-8150EC9AFAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F7AA1F-4B4E-42EC-802D-194BE0BA64DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F7AA1F-4B4E-42EC-802D-194BE0BA64DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCA2879-3C67-471F-9EB4-6662A4E78886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCA2879-3C67-471F-9EB4-6662A4E78886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBCF084-9EE0-473B-9939-F8D9074E13DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBCF084-9EE0-473B-9939-F8D9074E13DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E61022-B8CF-4DDB-924D-3EA019674CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E61022-B8CF-4DDB-924D-3EA019674CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B110B2AB-8AC9-4B05-B46E-25BBA2731A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B110B2AB-8AC9-4B05-B46E-25BBA2731A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93ACA3A-A841-4252-B812-9298BCCB9A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93ACA3A-A841-4252-B812-9298BCCB9A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
